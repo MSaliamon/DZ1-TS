@@ -1,3 +1,5 @@
-const a:number = 1;
+const number:number = 1;
 
-console.log(a);
+console.log(number);
+
+document.write(number.toString());

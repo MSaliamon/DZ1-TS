@@ -1,3 +1,4 @@
 "use strict";
-const a = 1;
-console.log(a);
+const number = 1;
+console.log(number);
+document.write(number.toString());
